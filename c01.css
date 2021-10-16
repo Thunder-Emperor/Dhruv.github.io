@@ -2,7 +2,7 @@
 
 body { 
     font-family: "Courier New", Courier, monospace;
-    background: url("images/wallpaperflare.com_wallpaper\ \(17\).jpg") no-repeat center center fixed; 
+    background: url("bg.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -22,7 +22,7 @@ h1, h3, p {
 h1 {
     margin: 50px 0 0 50px;
     height: 300px;
-    background-image: url("images/wallpaperflare.com_wallpaper.jpg");
+    background-image: url("logo.jpg");
     background-repeat: no-repeat;
     text-indent: -9999px;
     border-top: 1px solid #bcbdc0;
